@@ -10,7 +10,7 @@ Analyze and compare TCP Reno, TCP Westwood, and TCP Fack performance using NS3 s
              |      |
        H3 ---+      +--- H6
 
-A Dumbbell topology with two routers R1 and R2 connected by a (10 Mbps,100 ms) link.
+A Dumbbell topology with two routers R1 and R2 connected by a (10 Mbps, 50 ms) wired link.
 
 Each of the routers is connected to 3 hosts
 i.e., H1, H2 and H3 are connected to R1,
