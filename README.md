@@ -1,6 +1,6 @@
 # ns3-dumbell-topology-simulation
 
-[![Github Fork](https://img.shields.io/github/forks/pritam001/ns3-dumbell-topology-simulation.svg?style=social&label=Fork&maxAge=2592000)]
+![Github Fork](https://img.shields.io/github/forks/pritam001/ns3-dumbell-topology-simulation.svg?style=social&label=Fork&maxAge=2592000)
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 Analyze and compare TCP Reno, TCP Westwood, and TCP Fack performance using NS3 simulator
