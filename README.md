@@ -5,6 +5,9 @@ Analyze and compare TCP Reno, TCP Westwood, and TCP Fack performance using NS3 s
 [![GitHub license](https://img.shields.io/github/license/pritam001/ns3-dumbell-topology-simulation.svg)](https://github.com/pritam001/ns3-dumbell-topology-simulation/blob/master/LICENSE)
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
+### Dependency:
+https://www.nsnam.org/docs/release/3.24/
+
 ### Topology
 
        H1 ---+      +--- H4
